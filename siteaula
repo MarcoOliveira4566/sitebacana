@@ -1,0 +1,56 @@
+<html>
+<head>
+<title> Site bacana </title>
+
+</head>
+<body>
+
+<header><!--cabeçalho para pagina com um menu-->
+<h2> Minha Página  </h2>
+<nav><!--criar um menu utilizando listas-->
+<ul>
+<li> Home </li>
+<li> Meu Menu </li>
+</ul
+</nav>
+</header>
+<main>
+<section><!--Primeira Section do meu documento--> 
+<article>
+<h3> Segundo Artigo </h3>
+<p> Conteúdo </p>
+<p> Mais Conteúdo </p>
+ </article><!-- Aqui encerra meu primeiro artigo da section-->
+</section><!-- Aqui encerra a primeira section-->
+</main><!-- aqui finaliza todo o conteúdo principal-->
+
+<aside>
+<h4> Conteúdos Relacionados </h4>
+<ul>
+<li> Pagina do <a href="https://github.com/MarcoOliveira4566">Github</a></li>
+<li>Item da lista</li>
+<li>Item da lista</li>
+</ul>
+ </aside>
+
+<footer>
+<div><!--criando uma divisão pro rodapé-->
+<p>Inscreva-se para receber noticias </p>
+<form method="post"> 
+<input type="text" name="nome" placeholder="Digite seu Nome">
+<input type="email" name="email" placeholder="Digite seu Email">
+<input type="submit" name="enviar" value="enviar">
+</form>
+</div>
+<div>
+
+<h3> Minha primeira pagina HTML </h3>
+<span> Todos os direitos reservadps </span>
+ </div>
+ </footer>
+
+<script> 
+//Aqui vai o JavaScript
+</script>
+</body>
+</html>
